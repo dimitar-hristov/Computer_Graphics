@@ -34,7 +34,7 @@ float average_intensity(in vec4 fragment)
 
 vec4 get_fragment(in vec2 coords, in float dx, in float dy)
 {
-	return texture2D(tex,coords + vec2(dx, dy));
+	return texture(tex,coords + vec2(dx, dy));
 }
 
 // returns fragment color

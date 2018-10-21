@@ -1,7 +1,7 @@
 40201757 - Dimitar Hristov - Coursework (SET08116)
 /*FREE CAMERA mode*/
-	When the application is started the activa camera is free camera. With it the user can go around the scene and explore the different graphics effect.
-	In order to move the camera you have to use the following controls: 
+	When the application is started the activa camera is free camera. With it the user can go around the scene and explore 
+	the different graphics effect. In order to move the camera you have to use the following controls: 
 		- straight ahead - W
 		- backwards - S
 		- right - D
